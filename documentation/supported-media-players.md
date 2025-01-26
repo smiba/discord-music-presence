@@ -21,6 +21,8 @@ please visit the [**troubleshooting**](./troubleshooting.md) page
 <span><a href="https://cider.sh"><img title="Cider (Apple Music)" alt="" height="48" src="https://live.musicpresence.app/v2/cider.ico"></a></span>&nbsp;
 <span><a href="https://youtube.com"><img title="YouTube" alt="" height="48" src="https://live.musicpresence.app/v2/youtube.ico"></a></span>&nbsp;
 <span><a href="https://podurama.com/"><img title="Podurama" alt="" height="48" src="https://live.musicpresence.app/v2/podurama.ico"></a></span>&nbsp;
+<span><a href="https://jellyfin.org/"><img title="Jellyfin" alt="" height="48" src="https://live.musicpresence.app/v2/jellyfin.ico"></a></span>&nbsp;
+<span><a href="https://plex.tv/"><img title="Plex" alt="" height="48" src="https://live.musicpresence.app/v2/plex.ico"></a></span>&nbsp;
 
 **Offline media players**
 
@@ -61,13 +63,14 @@ please visit the [**troubleshooting**](./troubleshooting.md) page
 | MusicBee                  |         :white_check_mark: :pencil:         |  :heavy_multiplication_x:   | :heavy_multiplication_x: |
 | Next-Player<sup>2</sup>   |             :white_check_mark:              |  :heavy_multiplication_x:   | :heavy_multiplication_x: |
 | Nora<sup>3</sup>          |             :white_check_mark:              |  :heavy_multiplication_x:   |           ...            |
-| Pocket Casts              |             :white_check_mark:              |  :heavy_multiplication_x:   | :heavy_multiplication_x: |
+| Plex                      |                    ...                      |     :white_check_mark:      |           ...            |
+| Pocket Casts              |             :white_check_mark:              |  :heavy_multiplication_x:   |           ...            |
 | Podurama<sup>9</sup>      |         :white_check_mark: :wrench:         |             ...             |           ...            |
 | Qobuz                     |             :white_check_mark:              |          :warning:          | :heavy_multiplication_x: |
 | Soundcloud<sup>4</sup>    |             :white_check_mark:              |             ...             |           ...            |
 | Spotify                   |             :white_check_mark:              |     :white_check_mark:      |           ...            |
 | TIDAL                     |             :white_check_mark:              |     :white_check_mark:      |           ...            |
-| VLC Media Player          |    :white_check_mark: :pencil: :wrench:     |             ...             |           ...            |
+| VLC Media Player          |    :white_check_mark: :pencil: :wrench:     |     :white_check_mark:      |           ...            |
 | WACUP                     |         :white_check_mark: :wrench:         |  :heavy_multiplication_x:   | :heavy_multiplication_x: |
 | Winamp<sup>6</sup>        |         :white_check_mark: :wrench:         |  :heavy_multiplication_x:   | :heavy_multiplication_x: |
 | Windows Media Player      | :white_check_mark: :face_with_head_bandage: |  :heavy_multiplication_x:   | :heavy_multiplication_x: |
