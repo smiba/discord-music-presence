@@ -63,7 +63,7 @@ please visit the [**troubleshooting**](./troubleshooting.md) page
 | MusicBee                  |         :white_check_mark: :pencil:         |  :heavy_multiplication_x:   | :heavy_multiplication_x: |
 | Next-Player<sup>2</sup>   |             :white_check_mark:              |  :heavy_multiplication_x:   | :heavy_multiplication_x: |
 | Nora<sup>3</sup>          |             :white_check_mark:              |  :heavy_multiplication_x:   |           ...            |
-| Plex                      |                    ...                      |     :white_check_mark:      |           ...            |
+| Plex                      |          :heavy_multiplication_x:           |     :white_check_mark:      |           ...            |
 | Pocket Casts              |             :white_check_mark:              |  :heavy_multiplication_x:   | :heavy_multiplication_x: |
 | Podurama<sup>9</sup>      |         :white_check_mark: :wrench:         |             ...             |           ...            |
 | Qobuz                     |             :white_check_mark:              |          :warning:          | :heavy_multiplication_x: |
